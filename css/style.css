@@ -40,6 +40,9 @@ body {
 
 header {
     display: flex;
+    background: #b4c2f36e;
+    position: sticky;
+    top: 0;
     align-items: center;
     justify-content: space-between;
     padding: 1rem 3rem;
